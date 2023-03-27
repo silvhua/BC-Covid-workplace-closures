@@ -1,0 +1,291 @@
+,index,HA,workplace_name,workplace_address,city,date_cluster_confirmed_public_health,date_cluster_no_longer_active,earliest_reported_cases,latest_reported_cases,workplace_classification,cases_when_cluster_confirmed,total_cases,workplace_status,closure_y_n,closed_by_order,voluntary_closure,closure_date,partially_closed,unknown_closure_type,open,days_since_last_case,active_clusters,cluster_confirmed_epidate,cluster_closed_epidate,blank0,blank1,file
+0,753.0,VIHA,,,Victoria,9/8/2021,,8/5/2021,9/8/2021,"Restaurant/Bar/Lounge",0.0,3,Open,No,No,No,,Unknown,No,Yes,34.0,No,36-2021,,,,F22-1445 Records_Part5.pdf
+1,754.0,VIHA,,,Nanaimo,9/8/2021,,8/31/2021,9/8/2021,"Manufacturing/Industry",0.0,3,Open,No,No,No,,Unknown,No,Yes,34.0,No,36-2021,,,,F22-1445 Records_Part5.pdf
+2,755.0,VIHA,,,ake Cowichan,9/8/2021,,9/6/2021,9/8/2021,"Restaurant/Bar/Lounge",0.0,3,Open,No,No,No,,Unknown,No,Yes,34.0,No,36-2021,,,,F22-1445 Records_Part5.pdf
+3,756.0,NHA,,,Unknown,9/8/2021,9/23/2021,,,"Manufacturing/Industry",9.0,11,"Voluntaryclosure",Yes,No,Yes,9/8/2021,Unknown,No,No,,No,36-2021,36-2021,,,F22-1445 Records_Part5.pdf
+4,757.0,NHA,,,Unknown,9/8/2021,9/21/2021,,,School/Daycare,5.0,5,"Open (ifopen,reason fornon-closure)",No,No,No,,Unknown,No,No,,No,36-2021,,,,F22-1445 Records_Part5.pdf
+5,758.0,IHA,,,Castlegar,9/9/2021,,9/9/2021,9/15/2021,"Manufacturing/Industry",3.0,3,Unknown,"Unknown",No,No,,No,No,No,,No,36-2021,,,,F22-1445 Records_Part5.pdf
+6,759.0,IHA,,,Kamloops,9/9/2021,,9/9/2021,9/10/2021,"Manufacturing/Industry",3.0,3,Unknown,"Unknown",No,No,,No,No,No,,No,36-2021,,,,F22-1445 Records_Part5.pdf
+7,760.0,IHA,,,Kelowna,9/9/2021,,9/9/2021,9/10/2021,"Maintenance/Trades/Construction",3.0,3,Unknown,"Unknown",No,No,,No,No,No,,No,36-2021,,,,F22-1445 Records_Part5.pdf
+8,761.0,VIHA,,,Nanaimo,9/9/2021,,8/22/2021,9/12/2021,"Restaurant/Bar/Lounge",0.0,4,Open,No,No,No,,Unknown,No,Yes,30.0,No,36-2021,,,,F22-1445 Records_Part5.pdf
+9,762.0,VIHA,,,Crofton,9/9/2021,,9/5/2021,9/10/2021,"Manufacturing/Industry",0.0,4,Open,No,No,No,,Unknown,No,Yes,32.0,No,36-2021,,,,F22-1445 Records_Part5.pdf
+10,763.0,VIHA,,,Parksville,9/10/2021,,9/10/2021,9/12/2021,"Hospitality/Services",0.0,4,Open,No,No,No,,Unknown,No,Yes,30.0,No,36-2021,,,,F22-1445 Records_Part5.pdf
+11,764.0,VCH,,,Vancouver,9/10/2021,,9/10/2021,9/27/2021,Other,,6,"Not aworksite",No,No,No,,No,No,Yes,,No,36-2021,,,,F22-1445 Records_Part5.pdf
+12,765.0,IHA,,,Princeton,9/13/2021,,9/13/2021,9/22/2021,"Manufacturing/Industry",3.0,5,Unknown,"Unknown",No,No,,No,No,No,,No,37-2021,,,,F22-1445 Records_Part5.pdf
+13,766.0,IHA,,,Kelowna,9/14/2021,,9/14/2021,,"Maintenance/Trades/Construction",4.0,4,Closed,Yes,No,Yes,9/14/2021,No,No,No,,No,37-2021,37-2021,,,F22-1445 Records_Part5.pdf
+14,767.0,VIHA,,,Tofino,9/14/2021,,9/10/2021,9/14/2021,Other,0.0,3,Open,No,No,No,,Unknown,No,Yes,28.0,No,37-2021,,,,F22-1445 Records_Part5.pdf
+15,768.0,VCH,,,Vancouver,9/14/2021,,9/14/2021,10/4/2021,Office,,5,"Voluntarilyclosed byoperator",Yes,No,Yes,,No,No,No,,No,37-2021,,,,F22-1445 Records_Part5.pdf
+16,769.0,IHA,,,Vernon,9/15/2021,,9/15/2021,9/23/2021,"Health CareFacility(Acute/LTC)",3.0,3,Closed,Yes,No,Yes,9/15/2021,No,No,No,,No,37-2021,37-2021,,,F22-1445 Records_Part5.pdf
+17,770.0,FHA,,,ANGLEY,9/15/2021,9/23/2021,,,Other,20.0,20,"[3] Notclosed:Alternatecontrolmeasures",No,No,Unknown,,No,No,Yes,,No,37-2021,,,,F22-1445 Records_Part5.pdf
+18,771.0,VIHA,,,Duncan,9/15/2021,,9/4/2021,9/15/2021,Office,0.0,3,Open,No,No,No,,Unknown,No,Yes,27.0,No,37-2021,,,,F22-1445 Records_Part5.pdf
+19,772.0,IHA,,,Salmon Arm,9/16/2021,,9/16/2021,9/9/2021,"Restaurant/Bar/Lounge",,3,Unknown,"Unknown",No,No,,No,No,No,,No,37-2021,,,,F22-1445 Records_Part5.pdf
+20,773.0,IHA,,,Kamloops,9/16/2021,,9/16/2021,9/18/2021,"Maintenance/Trades/Construction",5.0,5,Unknown,"Unknown",No,No,,No,No,No,,No,37-2021,,,,F22-1445 Records_Part5.pdf
+21,774.0,VCH,,,Vancouver,9/16/2021,,9/16/2021,10/7/2021,"Shelter/SRO/CongregateHousing",,5,"Managedwithoutclosure (notclosed)",No,No,No,,No,No,Yes,,No,37-2021,,,,F22-1445 Records_Part5.pdf
+22,775.0,IHA,,,Cranbrook,9/17/2021,,9/17/2021,9/16/2021,"Restaurant/Bar/Lounge",3.0,3,Closed,Yes,No,Yes,9/17/2021,No,No,No,,No,37-2021,37-2021,,,F22-1445 Records_Part5.pdf
+23,753.0,VIHA,,,Victoria,9/8/2021,,8/5/2021,9/8/2021,"Restaurant/Bar/Lounge",0.0,3,Open,No,No,No,,Unknown,No,Yes,34.0,No,36-2021,,,,F22-1445 Records_Part5.pdf
+24,754.0,VIHA,,,Nanaimo,9/8/2021,,8/31/2021,9/8/2021,"Manufacturing/Industry",0.0,3,Open,No,No,No,,Unknown,No,Yes,34.0,No,36-2021,,,,F22-1445 Records_Part5.pdf
+25,755.0,VIHA,,,ake Cowichan,9/8/2021,,9/6/2021,9/8/2021,"Restaurant/Bar/Lounge",0.0,3,Open,No,No,No,,Unknown,No,Yes,34.0,No,36-2021,,,,F22-1445 Records_Part5.pdf
+26,756.0,NHA,,,Unknown,9/8/2021,9/23/2021,,,"Manufacturing/Industry",9.0,11,"Voluntaryclosure",Yes,No,Yes,9/8/2021,Unknown,No,No,,No,36-2021,36-2021,,,F22-1445 Records_Part5.pdf
+27,757.0,NHA,,,Unknown,9/8/2021,9/21/2021,,,School/Daycare,5.0,5,"Open (ifopen,reason fornon-closure)",No,No,No,,Unknown,No,No,,No,36-2021,,,,F22-1445 Records_Part5.pdf
+28,758.0,IHA,,,Castlegar,9/9/2021,,9/9/2021,9/15/2021,"Manufacturing/Industry",3.0,3,Unknown,"Unknown",No,No,,No,No,No,,No,36-2021,,,,F22-1445 Records_Part5.pdf
+29,759.0,IHA,,,Kamloops,9/9/2021,,9/9/2021,9/10/2021,"Manufacturing/Industry",3.0,3,Unknown,"Unknown",No,No,,No,No,No,,No,36-2021,,,,F22-1445 Records_Part5.pdf
+30,760.0,IHA,,,Kelowna,9/9/2021,,9/9/2021,9/10/2021,"Maintenance/Trades/Construction",3.0,3,Unknown,"Unknown",No,No,,No,No,No,,No,36-2021,,,,F22-1445 Records_Part5.pdf
+31,761.0,VIHA,,,Nanaimo,9/9/2021,,8/22/2021,9/12/2021,"Restaurant/Bar/Lounge",0.0,4,Open,No,No,No,,Unknown,No,Yes,30.0,No,36-2021,,,,F22-1445 Records_Part5.pdf
+32,762.0,VIHA,,,Crofton,9/9/2021,,9/5/2021,9/10/2021,"Manufacturing/Industry",0.0,4,Open,No,No,No,,Unknown,No,Yes,32.0,No,36-2021,,,,F22-1445 Records_Part5.pdf
+33,763.0,VIHA,,,Parksville,9/10/2021,,9/10/2021,9/12/2021,"Hospitality/Services",0.0,4,Open,No,No,No,,Unknown,No,Yes,30.0,No,36-2021,,,,F22-1445 Records_Part5.pdf
+34,764.0,VCH,,,Vancouver,9/10/2021,,9/10/2021,9/27/2021,Other,,6,"Not aworksite",No,No,No,,No,No,Yes,,No,36-2021,,,,F22-1445 Records_Part5.pdf
+35,765.0,IHA,,,Princeton,9/13/2021,,9/13/2021,9/22/2021,"Manufacturing/Industry",3.0,5,Unknown,"Unknown",No,No,,No,No,No,,No,37-2021,,,,F22-1445 Records_Part5.pdf
+36,766.0,IHA,,,Kelowna,9/14/2021,,9/14/2021,,"Maintenance/Trades/Construction",4.0,4,Closed,Yes,No,Yes,9/14/2021,No,No,No,,No,37-2021,37-2021,,,F22-1445 Records_Part5.pdf
+37,767.0,VIHA,,,Tofino,9/14/2021,,9/10/2021,9/14/2021,Other,0.0,3,Open,No,No,No,,Unknown,No,Yes,28.0,No,37-2021,,,,F22-1445 Records_Part5.pdf
+38,768.0,VCH,,,Vancouver,9/14/2021,,9/14/2021,10/4/2021,Office,,5,"Voluntarilyclosed byoperator",Yes,No,Yes,,No,No,No,,No,37-2021,,,,F22-1445 Records_Part5.pdf
+39,769.0,IHA,,,Vernon,9/15/2021,,9/15/2021,9/23/2021,"Health CareFacility(Acute/LTC)",3.0,3,Closed,Yes,No,Yes,9/15/2021,No,No,No,,No,37-2021,37-2021,,,F22-1445 Records_Part5.pdf
+40,770.0,FHA,,,ANGLEY,9/15/2021,9/23/2021,,,Other,20.0,20,"[3] Notclosed:Alternatecontrolmeasures",No,No,Unknown,,No,No,Yes,,No,37-2021,,,,F22-1445 Records_Part5.pdf
+41,771.0,VIHA,,,Duncan,9/15/2021,,9/4/2021,9/15/2021,Office,0.0,3,Open,No,No,No,,Unknown,No,Yes,27.0,No,37-2021,,,,F22-1445 Records_Part5.pdf
+42,772.0,IHA,,,Salmon Arm,9/16/2021,,9/16/2021,9/9/2021,"Restaurant/Bar/Lounge",,3,Unknown,"Unknown",No,No,,No,No,No,,No,37-2021,,,,F22-1445 Records_Part5.pdf
+43,773.0,IHA,,,Kamloops,9/16/2021,,9/16/2021,9/18/2021,"Maintenance/Trades/Construction",5.0,5,Unknown,"Unknown",No,No,,No,No,No,,No,37-2021,,,,F22-1445 Records_Part5.pdf
+44,774.0,VCH,,,Vancouver,9/16/2021,,9/16/2021,10/7/2021,"Shelter/SRO/CongregateHousing",,5,"Managedwithoutclosure (notclosed)",No,No,No,,No,No,Yes,,No,37-2021,,,,F22-1445 Records_Part5.pdf
+45,775.0,IHA,,,Cranbrook,9/17/2021,,9/17/2021,9/16/2021,"Restaurant/Bar/Lounge",3.0,3,Closed,Yes,No,Yes,9/17/2021,No,No,No,,No,37-2021,37-2021,,,F22-1445 Records_Part5.pdf
+46,776.0,IHA,,,illiams Lake,9/20/2021,,9/20/2021,,Office,1,5,Closed,Yes,No,Yes,9/20/2021,No,No,No,,No,38-2021,38-2021,,,F22-1445 Records_Part5.pdf
+47,777.0,VCH,,,ancouver,9/20/2021,,9/20/2021,10/5/2021,"Restaurant/Bar/Lounge",,4,"Managedwithoutclosure (notclosed)",No,No,No,,No,No,Yes,,No,38-2021,,,,F22-1445 Records_Part5.pdf
+48,778.0,IHA,,,icamous,9/21/2021,,9/21/2021,9/24/2021,Retail,3,4,Unknown,"Unknown",No,No,,No,No,No,,No,38-2021,,,,F22-1445 Records_Part5.pdf
+49,779.0,IHA,,,evelstoke,9/21/2021,,9/21/2021,9/24/2021,"Maintenance/Trades/Construction",4,4,Unknown,"Unknown",No,No,,No,No,No,,No,38-2021,,,,F22-1445 Records_Part5.pdf
+50,780.0,FHA,,,BBOTSFORD,9/21/2021,10/1/2021,,,Personal Care,4,4,"[3] Notclosed:Alternatecontrolmeasures",No,No,Unknown,,No,No,Yes,,No,38-2021,,,,F22-1445 Records_Part5.pdf
+51,781.0,FHA,,,ITT MEADOWS,9/22/2021,10/3/2021,,,"Farm/Agriculture",3,3,"[3] Notclosed:Alternatecontrolmeasures",No,No,Unknown,,No,No,Yes,,No,38-2021,,,,F22-1445 Records_Part5.pdf
+52,782.0,FHA,,,HILLIWACK,9/22/2021,,,,"Manufacturing/Industry",9,9,"[3] Notclosed:Alternatecontrolmeasures",No,No,Unknown,,No,No,Yes,,Yes,38-2021,,,,F22-1445 Records_Part5.pdf
+53,783.0,VCH,,,ancouver,9/22/2021,,9/22/2021,10/19/2021,"Shelter/SRO/CongregateHousing",,6,"Managedwithoutclosure (notclosed)",No,No,No,,No,No,Yes,,Yes,38-2021,,,,F22-1445 Records_Part5.pdf
+54,784.0,IHA,,,enticton,9/23/2021,,9/23/2021,9/24/2021,"Maintenance/Trades/Construction",4,4,Unknown,"Unknown",No,No,,No,No,No,,No,38-2021,,,,F22-1445 Records_Part5.pdf
+55,785.0,IHA,,,rmstrong,9/23/2021,,9/23/2021,,"Maintenance/Trades/Construction",4,4,Unknown,"Unknown",No,No,,No,No,No,,No,38-2021,,,,F22-1445 Records_Part5.pdf
+56,786.0,IHA,,,elowna,9/23/2021,,9/23/2021,9/21/2021,"Maintenance/Trades/Construction",3,4,Unknown,"Unknown",No,No,,No,No,No,,No,38-2021,,,,F22-1445 Records_Part5.pdf
+57,787.0,VIHA,,,squimalt,9/23/2021,,8/9/2021,9/23/2021,Other,0,3,Open,No,No,No,,Unknown,No,Yes,19,No,38-2021,,,,F22-1445 Records_Part5.pdf
+58,788.0,VCH,,,ancouver,9/23/2021,,9/23/2021,10/12/2021,Food Processing,,5,"Managedwithoutclosure (notclosed)",No,No,No,,No,No,Yes,,No,38-2021,,,,F22-1445 Records_Part5.pdf
+59,789.0,VIHA,,,obble Hill,9/24/2021,,9/1/2021,9/24/2021,"Restaurant/Bar/Lounge",0,3,Open,No,No,No,,Unknown,No,Yes,18,No,38-2021,,,,F22-1445 Records_Part5.pdf
+60,790.0,VIHA,,,ictoria,9/24/2021,,8/30/2021,9/24/2021,Retail,0,3,Open,No,No,No,,Unknown,No,Yes,18,No,38-2021,,,,F22-1445 Records_Part5.pdf
+61,791.0,NHA,,,nknown,9/24/2021,10/5/2021,,,"Maintenance/Trades/Construction",5,5,,No,No,No,,Unknown,No,No,,No,38-2021,,,,F22-1445 Records_Part5.pdf
+62,792.0,IHA,,,est Kelowna,9/27/2021,,9/27/2021,,School/Daycare,3,3,Closed,Yes,No,Yes,9/27/2021,No,No,No,,No,39-2021,39-2021,,,F22-1445 Records_Part5.pdf
+63,793.0,FHA,,,HILLIWACK,9/27/2021,,,,"Farm/Agriculture",12,12,"[3] Notclosed:Alternatecontrolmeasures",No,No,Unknown,,No,No,Yes,,Yes,39-2021,,,,F22-1445 Records_Part5.pdf
+64,776.0,IHA,,,illiams Lake,9/20/2021,,9/20/2021,,Office,1,5,Closed,Yes,No,Yes,9/20/2021,No,No,No,,No,38-2021,38-2021,,,F22-1445 Records_Part5.pdf
+65,777.0,VCH,,,ancouver,9/20/2021,,9/20/2021,10/5/2021,"Restaurant/Bar/Lounge",,4,"Managedwithoutclosure (notclosed)",No,No,No,,No,No,Yes,,No,38-2021,,,,F22-1445 Records_Part5.pdf
+66,778.0,IHA,,,icamous,9/21/2021,,9/21/2021,9/24/2021,Retail,3,4,Unknown,"Unknown",No,No,,No,No,No,,No,38-2021,,,,F22-1445 Records_Part5.pdf
+67,779.0,IHA,,,evelstoke,9/21/2021,,9/21/2021,9/24/2021,"Maintenance/Trades/Construction",4,4,Unknown,"Unknown",No,No,,No,No,No,,No,38-2021,,,,F22-1445 Records_Part5.pdf
+68,780.0,FHA,,,BBOTSFORD,9/21/2021,10/1/2021,,,Personal Care,4,4,"[3] Notclosed:Alternatecontrolmeasures",No,No,Unknown,,No,No,Yes,,No,38-2021,,,,F22-1445 Records_Part5.pdf
+69,781.0,FHA,,,ITT MEADOWS,9/22/2021,10/3/2021,,,"Farm/Agriculture",3,3,"[3] Notclosed:Alternatecontrolmeasures",No,No,Unknown,,No,No,Yes,,No,38-2021,,,,F22-1445 Records_Part5.pdf
+70,782.0,FHA,,,HILLIWACK,9/22/2021,,,,"Manufacturing/Industry",9,9,"[3] Notclosed:Alternatecontrolmeasures",No,No,Unknown,,No,No,Yes,,Yes,38-2021,,,,F22-1445 Records_Part5.pdf
+71,783.0,VCH,,,ancouver,9/22/2021,,9/22/2021,10/19/2021,"Shelter/SRO/CongregateHousing",,6,"Managedwithoutclosure (notclosed)",No,No,No,,No,No,Yes,,Yes,38-2021,,,,F22-1445 Records_Part5.pdf
+72,784.0,IHA,,,enticton,9/23/2021,,9/23/2021,9/24/2021,"Maintenance/Trades/Construction",4,4,Unknown,"Unknown",No,No,,No,No,No,,No,38-2021,,,,F22-1445 Records_Part5.pdf
+73,785.0,IHA,,,rmstrong,9/23/2021,,9/23/2021,,"Maintenance/Trades/Construction",4,4,Unknown,"Unknown",No,No,,No,No,No,,No,38-2021,,,,F22-1445 Records_Part5.pdf
+74,786.0,IHA,,,elowna,9/23/2021,,9/23/2021,9/21/2021,"Maintenance/Trades/Construction",3,4,Unknown,"Unknown",No,No,,No,No,No,,No,38-2021,,,,F22-1445 Records_Part5.pdf
+75,787.0,VIHA,,,squimalt,9/23/2021,,8/9/2021,9/23/2021,Other,0,3,Open,No,No,No,,Unknown,No,Yes,19,No,38-2021,,,,F22-1445 Records_Part5.pdf
+76,788.0,VCH,,,ancouver,9/23/2021,,9/23/2021,10/12/2021,Food Processing,,5,"Managedwithoutclosure (notclosed)",No,No,No,,No,No,Yes,,No,38-2021,,,,F22-1445 Records_Part5.pdf
+77,789.0,VIHA,,,obble Hill,9/24/2021,,9/1/2021,9/24/2021,"Restaurant/Bar/Lounge",0,3,Open,No,No,No,,Unknown,No,Yes,18,No,38-2021,,,,F22-1445 Records_Part5.pdf
+78,790.0,VIHA,,,ictoria,9/24/2021,,8/30/2021,9/24/2021,Retail,0,3,Open,No,No,No,,Unknown,No,Yes,18,No,38-2021,,,,F22-1445 Records_Part5.pdf
+79,791.0,NHA,,,nknown,9/24/2021,10/5/2021,,,"Maintenance/Trades/Construction",5,5,,No,No,No,,Unknown,No,No,,No,38-2021,,,,F22-1445 Records_Part5.pdf
+80,792.0,IHA,,,est Kelowna,9/27/2021,,9/27/2021,,School/Daycare,3,3,Closed,Yes,No,Yes,9/27/2021,No,No,No,,No,39-2021,39-2021,,,F22-1445 Records_Part5.pdf
+81,793.0,FHA,,,HILLIWACK,9/27/2021,,,,"Farm/Agriculture",12,12,"[3] Notclosed:Alternatecontrolmeasures",No,No,Unknown,,No,No,Yes,,Yes,39-2021,,,,F22-1445 Records_Part5.pdf
+82,794.0,VCH,,,Vancouver,9/27/2021,,9/27/2021,10/16/2021,"Restaurant/Bar/Lounge",,4,"Voluntarilyclosed byoperator",Yes,No,Yes,10/3/2021,No,No,No,,Yes,39-2021,40-2021,,,F22-1445 Records_Part5.pdf
+83,795.0,NHA,,,Unknown,9/27/2021,,,,"Health CareFacility(Acute/LTC)",4,10.0,"Open (ifopen,reason fornon-closure)",No,No,No,,Unknown,No,No,,Yes,39-2021,,,,F22-1445 Records_Part5.pdf
+84,796.0,NHA,,,Unknown,9/27/2021,,,,"Health CareFacility(Acute/LTC)",16,28.0,"Open (ifopen,reason fornon-closure)",No,No,No,,Unknown,No,No,,Yes,39-2021,,,,F22-1445 Records_Part5.pdf
+85,797.0,IHA,,,Cawston,9/28/2021,,9/28/2021,9/25/2021,Transportation,3,3.0,Unknown,"Unknown",No,No,,No,No,No,,No,39-2021,,,,F22-1445 Records_Part5.pdf
+86,798.0,IHA,,,Okanagan Falls,9/28/2021,,9/28/2021,9/30/2021,"Manufacturing/Industry",5,6.0,Unknown,"Unknown",No,No,,No,No,No,,No,39-2021,,,,F22-1445 Records_Part5.pdf
+87,799.0,IHA,,,Kelowna,9/28/2021,,9/28/2021,10/1/2021,Food Processing,4,7.0,Closed,Yes,No,Yes,9/21/2021,No,No,No,,No,39-2021,38-2021,,,F22-1445 Records_Part5.pdf
+88,800.0,VIHA,,,Courtenay,9/28/2021,,9/18/2021,9/28/2021,Retail,0,3.0,Open,No,No,No,,Unknown,No,Yes,14,Yes,39-2021,,,,F22-1445 Records_Part5.pdf
+89,801.0,VIHA,,,Comox- Strathcona D,9/30/2021,,9/26/2021,10/3/2021,"Manufacturing/Industry",0,4.0,Open,No,No,No,,Unknown,No,Yes,9,Yes,39-2021,,,,F22-1445 Records_Part5.pdf
+90,802.0,VIHA,,,Victoria,9/30/2021,,9/25/2021,10/2/2021,"Maintenance/Trades/Construction",0,4.0,Open,No,No,No,,Unknown,No,Yes,10,Yes,39-2021,,,,F22-1445 Records_Part5.pdf
+91,803.0,FHA,,,BURNABY,10/2/2021,10/2/2021,,,"Maintenance/Trades/Construction",4,4.0,"[3] Notclosed:Alternatecontrolmeasures",No,No,Unknown,,No,No,Yes,,No,39-2021,,,,F22-1445 Records_Part5.pdf
+92,804.0,VIHA,,,Nanaimo,10/3/2021,,8/24/2021,10/3/2021,Other,0,3.0,Open,No,No,No,,Unknown,No,Yes,9,Yes,40-2021,,,,F22-1445 Records_Part5.pdf
+93,805.0,VIHA,,,Port Alberni,10/3/2021,,9/12/2021,10/3/2021,Other,0,3.0,Open,No,No,No,,Unknown,No,Yes,9,Yes,40-2021,,,,F22-1445 Records_Part5.pdf
+94,806.0,IHA,,,Kelowna,10/4/2021,,10/4/2021,9/30/2021,"Manufacturing/Industry",3,3.0,Unknown,"Unknown",No,No,,No,No,No,,No,40-2021,,,,F22-1445 Records_Part5.pdf
+95,807.0,IHA,,,Kamloops,10/4/2021,,10/4/2021,,"Shelter/SRO/CongregateHousing",3,5.0,Unknown,"Unknown",No,No,,No,No,No,,No,40-2021,,,,F22-1445 Records_Part5.pdf
+96,808.0,NHA,,,Unknown,10/4/2021,,,,School/Daycare,3,3.0,,No,No,No,,Unknown,No,No,,Yes,40-2021,,,,F22-1445 Records_Part5.pdf
+97,809.0,NHA,,,Unknown,10/4/2021,,,,School/Daycare,5,9.0,,No,No,No,,Unknown,No,No,,Yes,40-2021,,,,F22-1445 Records_Part5.pdf
+98,810.0,FHA,,,ABBOTSFORD,10/5/2021,,,,"Farm/Agriculture",5,5.0,"[3] Notclosed:Alternatecontrolmeasures",No,No,Unknown,,No,No,Yes,,Yes,40-2021,,,,F22-1445 Records_Part5.pdf
+99,811.0,VIHA,,,Victoria,10/5/2021,,10/3/2021,10/5/2021,Office,0,3.0,Open,No,No,No,,Unknown,No,Yes,7,Yes,40-2021,,,,F22-1445 Records_Part5.pdf
+100,812.0,NHA,,,Unknown,10/5/2021,,,,"Health CareFacility(Acute/LTC)",2,14.0,,No,No,No,,Unknown,No,No,,Yes,40-2021,,,,F22-1445 Records_Part5.pdf
+101,813.0,IHA,,,Kelowna,10/6/2021,,10/6/2021,10/12/2021,"Manufacturing/Industry",3,3.0,Unknown,"Unknown",No,No,,No,No,No,,No,40-2021,,,,F22-1445 Records_Part5.pdf
+102,814.0,IHA,,,Williams Lake,10/6/2021,,10/6/2021,10/3/2021,"Health CareFacility(Acute/LTC)",3,3.0,Unknown,"Unknown",No,No,,No,No,No,,No,40-2021,,,,F22-1445 Records_Part5.pdf
+103,815.0,VIHA,,,Victoria,10/7/2021,,9/29/2021,10/7/2021,Other,0,3.0,Open,No,No,No,,Unknown,No,Yes,5,Yes,40-2021,,,,F22-1445 Records_Part5.pdf
+104,816.0,VIHA,,,Langford,10/8/2021,,9/13/2021,10/8/2021,Office,0,3.0,Open,No,No,No,,Unknown,No,Yes,4,Yes,40-2021,,,,F22-1445 Records_Part5.pdf
+105,794.0,VCH,,,Vancouver,9/27/2021,,9/27/2021,10/16/2021,"Restaurant/Bar/Lounge",,4,"Voluntarilyclosed byoperator",Yes,No,Yes,10/3/2021,No,No,No,,Yes,39-2021,40-2021,,,F22-1445 Records_Part5.pdf
+106,795.0,NHA,,,Unknown,9/27/2021,,,,"Health CareFacility(Acute/LTC)",4,10.0,"Open (ifopen,reason fornon-closure)",No,No,No,,Unknown,No,No,,Yes,39-2021,,,,F22-1445 Records_Part5.pdf
+107,796.0,NHA,,,Unknown,9/27/2021,,,,"Health CareFacility(Acute/LTC)",16,28.0,"Open (ifopen,reason fornon-closure)",No,No,No,,Unknown,No,No,,Yes,39-2021,,,,F22-1445 Records_Part5.pdf
+108,797.0,IHA,,,Cawston,9/28/2021,,9/28/2021,9/25/2021,Transportation,3,3.0,Unknown,"Unknown",No,No,,No,No,No,,No,39-2021,,,,F22-1445 Records_Part5.pdf
+109,798.0,IHA,,,Okanagan Falls,9/28/2021,,9/28/2021,9/30/2021,"Manufacturing/Industry",5,6.0,Unknown,"Unknown",No,No,,No,No,No,,No,39-2021,,,,F22-1445 Records_Part5.pdf
+110,799.0,IHA,,,Kelowna,9/28/2021,,9/28/2021,10/1/2021,Food Processing,4,7.0,Closed,Yes,No,Yes,9/21/2021,No,No,No,,No,39-2021,38-2021,,,F22-1445 Records_Part5.pdf
+111,800.0,VIHA,,,Courtenay,9/28/2021,,9/18/2021,9/28/2021,Retail,0,3.0,Open,No,No,No,,Unknown,No,Yes,14,Yes,39-2021,,,,F22-1445 Records_Part5.pdf
+112,801.0,VIHA,,,Comox- Strathcona D,9/30/2021,,9/26/2021,10/3/2021,"Manufacturing/Industry",0,4.0,Open,No,No,No,,Unknown,No,Yes,9,Yes,39-2021,,,,F22-1445 Records_Part5.pdf
+113,802.0,VIHA,,,Victoria,9/30/2021,,9/25/2021,10/2/2021,"Maintenance/Trades/Construction",0,4.0,Open,No,No,No,,Unknown,No,Yes,10,Yes,39-2021,,,,F22-1445 Records_Part5.pdf
+114,803.0,FHA,,,BURNABY,10/2/2021,10/2/2021,,,"Maintenance/Trades/Construction",4,4.0,"[3] Notclosed:Alternatecontrolmeasures",No,No,Unknown,,No,No,Yes,,No,39-2021,,,,F22-1445 Records_Part5.pdf
+115,804.0,VIHA,,,Nanaimo,10/3/2021,,8/24/2021,10/3/2021,Other,0,3.0,Open,No,No,No,,Unknown,No,Yes,9,Yes,40-2021,,,,F22-1445 Records_Part5.pdf
+116,805.0,VIHA,,,Port Alberni,10/3/2021,,9/12/2021,10/3/2021,Other,0,3.0,Open,No,No,No,,Unknown,No,Yes,9,Yes,40-2021,,,,F22-1445 Records_Part5.pdf
+117,806.0,IHA,,,Kelowna,10/4/2021,,10/4/2021,9/30/2021,"Manufacturing/Industry",3,3.0,Unknown,"Unknown",No,No,,No,No,No,,No,40-2021,,,,F22-1445 Records_Part5.pdf
+118,807.0,IHA,,,Kamloops,10/4/2021,,10/4/2021,,"Shelter/SRO/CongregateHousing",3,5.0,Unknown,"Unknown",No,No,,No,No,No,,No,40-2021,,,,F22-1445 Records_Part5.pdf
+119,808.0,NHA,,,Unknown,10/4/2021,,,,School/Daycare,3,3.0,,No,No,No,,Unknown,No,No,,Yes,40-2021,,,,F22-1445 Records_Part5.pdf
+120,809.0,NHA,,,Unknown,10/4/2021,,,,School/Daycare,5,9.0,,No,No,No,,Unknown,No,No,,Yes,40-2021,,,,F22-1445 Records_Part5.pdf
+121,810.0,FHA,,,ABBOTSFORD,10/5/2021,,,,"Farm/Agriculture",5,5.0,"[3] Notclosed:Alternatecontrolmeasures",No,No,Unknown,,No,No,Yes,,Yes,40-2021,,,,F22-1445 Records_Part5.pdf
+122,811.0,VIHA,,,Victoria,10/5/2021,,10/3/2021,10/5/2021,Office,0,3.0,Open,No,No,No,,Unknown,No,Yes,7,Yes,40-2021,,,,F22-1445 Records_Part5.pdf
+123,812.0,NHA,,,Unknown,10/5/2021,,,,"Health CareFacility(Acute/LTC)",2,14.0,,No,No,No,,Unknown,No,No,,Yes,40-2021,,,,F22-1445 Records_Part5.pdf
+124,813.0,IHA,,,Kelowna,10/6/2021,,10/6/2021,10/12/2021,"Manufacturing/Industry",3,3.0,Unknown,"Unknown",No,No,,No,No,No,,No,40-2021,,,,F22-1445 Records_Part5.pdf
+125,814.0,IHA,,,Williams Lake,10/6/2021,,10/6/2021,10/3/2021,"Health CareFacility(Acute/LTC)",3,3.0,Unknown,"Unknown",No,No,,No,No,No,,No,40-2021,,,,F22-1445 Records_Part5.pdf
+126,815.0,VIHA,,,Victoria,10/7/2021,,9/29/2021,10/7/2021,Other,0,3.0,Open,No,No,No,,Unknown,No,Yes,5,Yes,40-2021,,,,F22-1445 Records_Part5.pdf
+127,816.0,VIHA,,,Langford,10/8/2021,,9/13/2021,10/8/2021,Office,0,3.0,Open,No,No,No,,Unknown,No,Yes,4,Yes,40-2021,,,,F22-1445 Records_Part5.pdf
+128,817.0,NHA,,,,,Unknown,10/8/2021,,,,ndustry,3,3,,No,No,No,,Unknown,No,No,,Yes,40-2021,,F22-1445 Records_Part5.pdf
+129,817.0,NHA,,,,,Unknown,10/8/2021,,,,ndustry,3,3,,No,No,No,,Unknown,No,No,,Yes,40-2021,,F22-1445 Records_Part5.pdf
+0,14.0,FHA,,,DELTA,4/1/2021,4/6/2021,,,n,,,,No,No,Unknown,,No,No,No,No,13-2021,,,,,F22-1445 Records_Part6.pdf
+1,15.0,VCH,,,Vancouver,4/1/2021,,4/1/2021,5/1/2021,Processing,,,by PH,Yes,No,No,3/24/2021,Yes,No,No,No,13-2021,,,,,F22-1445 Records_Part6.pdf
+2,16.0,VCH,,,Vancouver,4/1/2021,,4/1/2021,4/23/2021,e,,,by PH,Yes,No,No,,Yes,No,No,No,13-2021,,,,,F22-1445 Records_Part6.pdf
+3,17.0,FHA,,,SURREY,4/2/2021,4/28/2021,,,g/Industry,,,,No,No,Unknown,,No,No,No,No,13-2021,,,,,F22-1445 Records_Part6.pdf
+4,18.0,FHA,,,SURREY,4/2/2021,4/18/2021,,,Retail,,,,No,No,Unknown,,No,No,No,No,13-2021,,,,,F22-1445 Records_Part6.pdf
+5,19.0,FHA,,,M,4/2/2021,4/18/2021,,,Responder,,,,No,No,Unknown,,No,No,No,No,13-2021,,,,,F22-1445 Records_Part6.pdf
+6,20.0,FHA,,,LANGLEY,4/2/2021,4/17/2021,,,ure,,,,No,No,Unknown,,No,No,No,No,13-2021,,,,,F22-1445 Records_Part6.pdf
+7,21.0,FHA,,,BURNABY,4/2/2021,4/16/2021,,,Processing,,,[1] Closed,Yes,Yes,Unknown,4/5/2021,No,No,Yes,No,13-2021,,,,,F22-1445 Records_Part6.pdf
+8,22.0,FHA,,,DELTA,4/2/2021,4/10/2021,,,Office,,,,No,No,Unknown,,No,No,No,No,13-2021,,,,,F22-1445 Records_Part6.pdf
+9,23.0,FHA,,,M,4/2/2021,4/7/2021,,,Other,,,,No,No,Unknown,,No,No,No,No,13-2021,,,,,F22-1445 Records_Part6.pdf
+10,24.0,FHA,,,LANGLEY,4/2/2021,4/5/2021,,,Retail,,,,No,No,Unknown,,No,No,No,No,13-2021,,,,,F22-1445 Records_Part6.pdf
+11,25.0,VCH,,,Vancouver,4/2/2021,,4/2/2021,4/22/2021,Other,,,operator,Yes,No,Yes,,No,No,No,No,13-2021,,,,,F22-1445 Records_Part6.pdf
+12,26.0,VCH,,,Vancouver,4/2/2021,,4/2/2021,4/21/2021,Gym/Fitness,,,operator,Yes,No,Yes,,No,No,No,No,13-2021,,,,,F22-1445 Records_Part6.pdf
+13,27.0,VCH,,,Vancouver,4/2/2021,,4/2/2021,4/21/2021,Other,,,worksite,No,No,No,,No,No,Yes,No,13-2021,,,,,F22-1445 Records_Part6.pdf
+14,14.0,FHA,,,DELTA,4/1/2021,4/6/2021,,,n,,,,No,No,Unknown,,No,No,No,No,13-2021,,,,,F22-1445 Records_Part6.pdf
+15,15.0,VCH,,,Vancouver,4/1/2021,,4/1/2021,5/1/2021,Processing,,,by PH,Yes,No,No,3/24/2021,Yes,No,No,No,13-2021,,,,,F22-1445 Records_Part6.pdf
+16,16.0,VCH,,,Vancouver,4/1/2021,,4/1/2021,4/23/2021,e,,,by PH,Yes,No,No,,Yes,No,No,No,13-2021,,,,,F22-1445 Records_Part6.pdf
+17,17.0,FHA,,,SURREY,4/2/2021,4/28/2021,,,g/Industry,,,,No,No,Unknown,,No,No,No,No,13-2021,,,,,F22-1445 Records_Part6.pdf
+18,18.0,FHA,,,SURREY,4/2/2021,4/18/2021,,,Retail,,,,No,No,Unknown,,No,No,No,No,13-2021,,,,,F22-1445 Records_Part6.pdf
+19,19.0,FHA,,,M,4/2/2021,4/18/2021,,,Responder,,,,No,No,Unknown,,No,No,No,No,13-2021,,,,,F22-1445 Records_Part6.pdf
+20,20.0,FHA,,,LANGLEY,4/2/2021,4/17/2021,,,ure,,,,No,No,Unknown,,No,No,No,No,13-2021,,,,,F22-1445 Records_Part6.pdf
+21,21.0,FHA,,,BURNABY,4/2/2021,4/16/2021,,,Processing,,,[1] Closed,Yes,Yes,Unknown,4/5/2021,No,No,Yes,No,13-2021,,,,,F22-1445 Records_Part6.pdf
+22,22.0,FHA,,,DELTA,4/2/2021,4/10/2021,,,Office,,,,No,No,Unknown,,No,No,No,No,13-2021,,,,,F22-1445 Records_Part6.pdf
+23,23.0,FHA,,,M,4/2/2021,4/7/2021,,,Other,,,,No,No,Unknown,,No,No,No,No,13-2021,,,,,F22-1445 Records_Part6.pdf
+24,24.0,FHA,,,LANGLEY,4/2/2021,4/5/2021,,,Retail,,,,No,No,Unknown,,No,No,No,No,13-2021,,,,,F22-1445 Records_Part6.pdf
+25,25.0,VCH,,,Vancouver,4/2/2021,,4/2/2021,4/22/2021,Other,,,operator,Yes,No,Yes,,No,No,No,No,13-2021,,,,,F22-1445 Records_Part6.pdf
+26,26.0,VCH,,,Vancouver,4/2/2021,,4/2/2021,4/21/2021,Gym/Fitness,,,operator,Yes,No,Yes,,No,No,No,No,13-2021,,,,,F22-1445 Records_Part6.pdf
+27,27.0,VCH,,,Vancouver,4/2/2021,,4/2/2021,4/21/2021,Other,,,worksite,No,No,No,,No,No,Yes,No,13-2021,,,,,F22-1445 Records_Part6.pdf
+28,29.0,FHA,,,"PITTMEADOWS",4/4/2021,5/3/2021,,,"Farm/Agriculture",8.0,8,,No,No,Unknown,,No,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+29,30.0,FHA,,,DELTA,4/4/2021,4/16/2021,,,"Restaurant/Bar/Lounge",4.0,4,[1] Closed,Yes,Yes,Unknown,4/7/2021,No,No,Yes,,No,14-2021,,14-2021,,F22-1445 Records_Part6.pdf
+30,31.0,FHA,,,SURREY,4/4/2021,4/16/2021,,,Retail,5.0,5,[1] Closed,Yes,Yes,Unknown,4/8/2021,No,No,Yes,,No,14-2021,,14-2021,,F22-1445 Records_Part6.pdf
+31,32.0,FHA,,,SURREY,4/4/2021,4/10/2021,,,Office,8.0,8,[1] Closed,Yes,Yes,Unknown,4/4/2021,No,No,Yes,,No,14-2021,,14-2021,,F22-1445 Records_Part6.pdf
+32,33.0,VCH,,,"NorthVancouver",4/4/2021,,4/4/2021,5/15/2021,"Maintenance/Trades/Construction",,28,"Orderedclosed byPH",Yes,Yes,No,4/21/2021,No,No,No,,No,14-2021,,16-2021,,F22-1445 Records_Part6.pdf
+33,34.0,VCH,,,Vancouver,4/4/2021,,4/4/2021,4/25/2021,Office,,3,"Managedwithoutclosure(notclosed)",No,No,No,,No,No,Yes,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+34,35.0,NHA,,,Unknown,4/4/2021,5/5/2021,,,"Health CareFacility(Acute/LTC)",,5,"Open (ifopen,reason fornon-closure)",No,No,No,,Unknown,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+35,36.0,NHA,,,Unknown,4/4/2021,4/26/2021,,,"Shelter/SRO/CongregateHousing",3.0,6,"Open (ifopen,reason fornon-closure)",No,No,No,,Unknown,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+36,37.0,NHA,,,Unknown,4/4/2021,4/26/2021,,,"Shelter/SRO/CongregateHousing",,11,"Open (ifopen,reason fornon-closure)",No,No,No,,Unknown,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+37,38.0,NHA,,,Unknown,4/4/2021,4/26/2021,,,"Shelter/SRO/CongregateHousing",,5,"Open (ifopen,reason fornon-closure)",No,No,No,,Unknown,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+38,39.0,FHA,,,"PORTCOQUITLAM",4/5/2021,5/22/2021,,,"Restaurant/Bar/Lounge",9.0,9,,No,No,Unknown,,No,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+39,40.0,FHA,,,DELTA,4/5/2021,5/21/2021,,,"FoodProcessing",9.0,9,,No,No,Unknown,,No,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+40,29.0,FHA,,,"PITTMEADOWS",4/4/2021,5/3/2021,,,"Farm/Agriculture",8.0,8,,No,No,Unknown,,No,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+41,30.0,FHA,,,DELTA,4/4/2021,4/16/2021,,,"Restaurant/Bar/Lounge",4.0,4,[1] Closed,Yes,Yes,Unknown,4/7/2021,No,No,Yes,,No,14-2021,,14-2021,,F22-1445 Records_Part6.pdf
+42,31.0,FHA,,,SURREY,4/4/2021,4/16/2021,,,Retail,5.0,5,[1] Closed,Yes,Yes,Unknown,4/8/2021,No,No,Yes,,No,14-2021,,14-2021,,F22-1445 Records_Part6.pdf
+43,32.0,FHA,,,SURREY,4/4/2021,4/10/2021,,,Office,8.0,8,[1] Closed,Yes,Yes,Unknown,4/4/2021,No,No,Yes,,No,14-2021,,14-2021,,F22-1445 Records_Part6.pdf
+44,33.0,VCH,,,"NorthVancouver",4/4/2021,,4/4/2021,5/15/2021,"Maintenance/Trades/Construction",,28,"Orderedclosed byPH",Yes,Yes,No,4/21/2021,No,No,No,,No,14-2021,,16-2021,,F22-1445 Records_Part6.pdf
+45,34.0,VCH,,,Vancouver,4/4/2021,,4/4/2021,4/25/2021,Office,,3,"Managedwithoutclosure(notclosed)",No,No,No,,No,No,Yes,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+46,35.0,NHA,,,Unknown,4/4/2021,5/5/2021,,,"Health CareFacility(Acute/LTC)",,5,"Open (ifopen,reason fornon-closure)",No,No,No,,Unknown,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+47,36.0,NHA,,,Unknown,4/4/2021,4/26/2021,,,"Shelter/SRO/CongregateHousing",3.0,6,"Open (ifopen,reason fornon-closure)",No,No,No,,Unknown,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+48,37.0,NHA,,,Unknown,4/4/2021,4/26/2021,,,"Shelter/SRO/CongregateHousing",,11,"Open (ifopen,reason fornon-closure)",No,No,No,,Unknown,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+49,38.0,NHA,,,Unknown,4/4/2021,4/26/2021,,,"Shelter/SRO/CongregateHousing",,5,"Open (ifopen,reason fornon-closure)",No,No,No,,Unknown,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+50,39.0,FHA,,,"PORTCOQUITLAM",4/5/2021,5/22/2021,,,"Restaurant/Bar/Lounge",9.0,9,,No,No,Unknown,,No,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+51,40.0,FHA,,,DELTA,4/5/2021,5/21/2021,,,"FoodProcessing",9.0,9,,No,No,Unknown,,No,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+52,41.0,FHA,,,BURNABY,4/5/2021,5/7/2021,g/Industry,,,,No,No,Unknown,,No,No,No,No,14-2021,,,,,,,F22-1445 Records_Part6.pdf
+53,42.0,FHA,,,BURNABY,4/5/2021,4/24/2021,g/Industry,,,,No,No,Unknown,,No,No,No,No,14-2021,,,,,,,F22-1445 Records_Part6.pdf
+54,43.0,FHA,,,RIDGE,4/5/2021,4/23/2021,Office,,,[1] Closed,Yes,Yes,Unknown,4/12/2021,No,No,Yes,No,14-2021,,,,,,,F22-1445 Records_Part6.pdf
+55,44.0,FHA,,,BURNABY,4/5/2021,4/23/2021,Office,,,[1] Closed,Yes,Yes,Unknown,4/6/2021,No,No,Yes,No,14-2021,,,,,,,F22-1445 Records_Part6.pdf
+56,45.0,FHA,,,BURNABY,4/5/2021,4/21/2021,Other,,,,No,No,Unknown,,No,No,No,No,14-2021,,,,,,,F22-1445 Records_Part6.pdf
+57,46.0,FHA,,,DELTA,4/5/2021,4/21/2021,Processing,,,,No,No,Unknown,,No,No,No,No,14-2021,,,,,,,F22-1445 Records_Part6.pdf
+58,47.0,FHA,,,ORD,4/5/2021,4/21/2021,Warehouse,,,,No,No,Unknown,,No,No,No,No,14-2021,,,,,,,F22-1445 Records_Part6.pdf
+59,48.0,FHA,,,SURREY,4/5/2021,4/21/2021,Other,,,,No,No,Unknown,,No,No,No,No,14-2021,,,,,,,F22-1445 Records_Part6.pdf
+60,49.0,FHA,,,DELTA,4/5/2021,4/21/2021,r/Lounge,,,[1] Closed,Yes,Yes,Unknown,4/8/2021,No,No,Yes,No,14-2021,,,,,,,F22-1445 Records_Part6.pdf
+61,50.0,FHA,,,LANGLEY,4/5/2021,4/20/2021,r/Lounge,,,,No,No,Unknown,,No,No,No,No,14-2021,,,,,,,F22-1445 Records_Part6.pdf
+62,51.0,FHA,,,LANGLEY,4/5/2021,4/19/2021,g/Industry,,,,No,No,Unknown,,No,No,No,No,14-2021,,,,,,,F22-1445 Records_Part6.pdf
+63,52.0,FHA,,,SURREY,4/5/2021,4/18/2021,Office,,,,No,No,Unknown,,No,No,No,No,14-2021,,,,,,,F22-1445 Records_Part6.pdf
+64,53.0,FHA,,,SURREY,4/5/2021,4/15/2021,r/Lounge,,,,No,No,Unknown,,No,No,No,No,14-2021,,,,,,,F22-1445 Records_Part6.pdf
+65,54.0,FHA,,,SURREY,4/5/2021,4/13/2021,Office,,,[1] Closed,Yes,Yes,Unknown,4/6/2021,No,No,Yes,No,14-2021,,,,,,,F22-1445 Records_Part6.pdf
+66,41.0,FHA,,,BURNABY,4/5/2021,5/7/2021,g/Industry,,,,No,No,Unknown,,No,No,No,No,14-2021,,,,,,,F22-1445 Records_Part6.pdf
+67,42.0,FHA,,,BURNABY,4/5/2021,4/24/2021,g/Industry,,,,No,No,Unknown,,No,No,No,No,14-2021,,,,,,,F22-1445 Records_Part6.pdf
+68,43.0,FHA,,,RIDGE,4/5/2021,4/23/2021,Office,,,[1] Closed,Yes,Yes,Unknown,4/12/2021,No,No,Yes,No,14-2021,,,,,,,F22-1445 Records_Part6.pdf
+69,44.0,FHA,,,BURNABY,4/5/2021,4/23/2021,Office,,,[1] Closed,Yes,Yes,Unknown,4/6/2021,No,No,Yes,No,14-2021,,,,,,,F22-1445 Records_Part6.pdf
+70,45.0,FHA,,,BURNABY,4/5/2021,4/21/2021,Other,,,,No,No,Unknown,,No,No,No,No,14-2021,,,,,,,F22-1445 Records_Part6.pdf
+71,46.0,FHA,,,DELTA,4/5/2021,4/21/2021,Processing,,,,No,No,Unknown,,No,No,No,No,14-2021,,,,,,,F22-1445 Records_Part6.pdf
+72,47.0,FHA,,,ORD,4/5/2021,4/21/2021,Warehouse,,,,No,No,Unknown,,No,No,No,No,14-2021,,,,,,,F22-1445 Records_Part6.pdf
+73,48.0,FHA,,,SURREY,4/5/2021,4/21/2021,Other,,,,No,No,Unknown,,No,No,No,No,14-2021,,,,,,,F22-1445 Records_Part6.pdf
+74,49.0,FHA,,,DELTA,4/5/2021,4/21/2021,r/Lounge,,,[1] Closed,Yes,Yes,Unknown,4/8/2021,No,No,Yes,No,14-2021,,,,,,,F22-1445 Records_Part6.pdf
+75,50.0,FHA,,,LANGLEY,4/5/2021,4/20/2021,r/Lounge,,,,No,No,Unknown,,No,No,No,No,14-2021,,,,,,,F22-1445 Records_Part6.pdf
+76,51.0,FHA,,,LANGLEY,4/5/2021,4/19/2021,g/Industry,,,,No,No,Unknown,,No,No,No,No,14-2021,,,,,,,F22-1445 Records_Part6.pdf
+77,52.0,FHA,,,SURREY,4/5/2021,4/18/2021,Office,,,,No,No,Unknown,,No,No,No,No,14-2021,,,,,,,F22-1445 Records_Part6.pdf
+78,53.0,FHA,,,SURREY,4/5/2021,4/15/2021,r/Lounge,,,,No,No,Unknown,,No,No,No,No,14-2021,,,,,,,F22-1445 Records_Part6.pdf
+79,54.0,FHA,,,SURREY,4/5/2021,4/13/2021,Office,,,[1] Closed,Yes,Yes,Unknown,4/6/2021,No,No,Yes,No,14-2021,,,,,,,F22-1445 Records_Part6.pdf
+80,56.0,VCH,,,Vancouver,4/5/2021,,4/5/2021,4/23/2021,Other,,3,"Not aworksite",No,No,No,,No,No,Yes,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+81,57.0,VCH,,,"NorthVancouver",4/5/2021,,4/5/2021,4/23/2021,Gym/Fitness,,3,"Managedwithoutclosure(notclosed)",No,No,No,,No,No,Yes,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+82,58.0,VCH,,,"PowellRiver",4/5/2021,,4/5/2021,4/19/2021,Other,,3,"Not aworksite",No,No,No,,No,No,Yes,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+83,59.0,NHA,,,Unknown,4/5/2021,4/20/2021,,,"Shelter/SRO/CongregateHousing",,7,"Open (ifopen,reason fornon-closure)",No,No,No,,Unknown,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+84,60.0,NHA,,,Unknown,4/5/2021,4/13/2021,,,"Manufacturing/Industry",,3,"Open (ifopen,reason fornon-closure)",No,No,No,,Unknown,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+85,61.0,FHA,,,LANGLEY,4/6/2021,4/30/2021,,,"Manufacturing/Industry",5.0,5,,No,No,Unknown,,No,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+86,62.0,FHA,,,BURNABY,4/6/2021,4/24/2021,,,Retail,6.0,6,,No,No,Unknown,,No,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+87,63.0,FHA,,,DELTA,4/6/2021,4/21/2021,,,Retail,4.0,4,,No,No,Unknown,,No,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+88,64.0,FHA,,,BURNABY,4/6/2021,4/20/2021,,,"Maintenance/Trades/Construction",4.0,4,,No,No,Unknown,,No,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+89,65.0,FHA,,,SURREY,4/6/2021,4/20/2021,,,"Manufacturing/Industry",3.0,3,,No,No,Unknown,,No,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+90,66.0,FHA,,,"ABBOTSFORD",4/6/2021,4/19/2021,,,"Restaurant/Bar/Lounge",5.0,5,[1] Closed,Yes,Yes,Unknown,4/6/2021,No,No,Yes,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+91,67.0,FHA,,,SURREY,4/6/2021,4/19/2021,,,"Manufacturing/Industry",3.0,3,[1] Closed,Yes,Yes,Unknown,4/9/2021,No,No,Yes,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+92,68.0,FHA,,,SURREY,4/6/2021,4/19/2021,,,Office,4.0,4,,No,No,Unknown,,No,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+93,69.0,FHA,,,SURREY,4/6/2021,4/16/2021,,,Retail,3.0,3,[1] Closed,Yes,Yes,Unknown,4/7/2021,No,No,Yes,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+94,56.0,VCH,,,Vancouver,4/5/2021,,4/5/2021,4/23/2021,Other,,3,"Not aworksite",No,No,No,,No,No,Yes,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+95,57.0,VCH,,,"NorthVancouver",4/5/2021,,4/5/2021,4/23/2021,Gym/Fitness,,3,"Managedwithoutclosure(notclosed)",No,No,No,,No,No,Yes,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+96,58.0,VCH,,,"PowellRiver",4/5/2021,,4/5/2021,4/19/2021,Other,,3,"Not aworksite",No,No,No,,No,No,Yes,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+97,59.0,NHA,,,Unknown,4/5/2021,4/20/2021,,,"Shelter/SRO/CongregateHousing",,7,"Open (ifopen,reason fornon-closure)",No,No,No,,Unknown,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+98,60.0,NHA,,,Unknown,4/5/2021,4/13/2021,,,"Manufacturing/Industry",,3,"Open (ifopen,reason fornon-closure)",No,No,No,,Unknown,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+99,61.0,FHA,,,LANGLEY,4/6/2021,4/30/2021,,,"Manufacturing/Industry",5.0,5,,No,No,Unknown,,No,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+100,62.0,FHA,,,BURNABY,4/6/2021,4/24/2021,,,Retail,6.0,6,,No,No,Unknown,,No,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+101,63.0,FHA,,,DELTA,4/6/2021,4/21/2021,,,Retail,4.0,4,,No,No,Unknown,,No,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+102,64.0,FHA,,,BURNABY,4/6/2021,4/20/2021,,,"Maintenance/Trades/Construction",4.0,4,,No,No,Unknown,,No,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+103,65.0,FHA,,,SURREY,4/6/2021,4/20/2021,,,"Manufacturing/Industry",3.0,3,,No,No,Unknown,,No,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+104,66.0,FHA,,,"ABBOTSFORD",4/6/2021,4/19/2021,,,"Restaurant/Bar/Lounge",5.0,5,[1] Closed,Yes,Yes,Unknown,4/6/2021,No,No,Yes,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+105,67.0,FHA,,,SURREY,4/6/2021,4/19/2021,,,"Manufacturing/Industry",3.0,3,[1] Closed,Yes,Yes,Unknown,4/9/2021,No,No,Yes,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+106,68.0,FHA,,,SURREY,4/6/2021,4/19/2021,,,Office,4.0,4,,No,No,Unknown,,No,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+107,69.0,FHA,,,SURREY,4/6/2021,4/16/2021,,,Retail,3.0,3,[1] Closed,Yes,Yes,Unknown,4/7/2021,No,No,Yes,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+108,70.0,FHA,,,SURREY,4/6/2021,4/16/2021,,,Processing,,,,No,No,Unknown,,No,No,No,No,14-2021,,,,,F22-1445 Records_Part6.pdf
+109,71.0,FHA,,,M,4/6/2021,4/16/2021,,,n,,,,No,No,Unknown,,No,No,No,No,14-2021,,,,,F22-1445 Records_Part6.pdf
+110,72.0,FHA,,,MOODY,4/6/2021,4/15/2021,,,Office,,,[1] Closed,Yes,Yes,Unknown,4/8/2021,No,No,Yes,No,14-2021,,,,,F22-1445 Records_Part6.pdf
+111,73.0,FHA,,,DELTA,4/6/2021,4/14/2021,,,g/Industry,,,,No,No,Unknown,,No,No,No,No,14-2021,,,,,F22-1445 Records_Part6.pdf
+112,74.0,FHA,,,STER,4/6/2021,4/14/2021,,,Personal Care,,,[1] Closed,Yes,Yes,Unknown,4/9/2021,No,No,Yes,No,14-2021,,,,,F22-1445 Records_Part6.pdf
+113,75.0,FHA,,,S,4/6/2021,4/6/2021,,,Office,,,,No,No,Unknown,,No,No,No,No,14-2021,,,,,F22-1445 Records_Part6.pdf
+114,76.0,VCH,,,Vancouver,4/6/2021,,4/6/2021,4/27/2021,Gym/Fitness,,,PH,Yes,Yes,No,4/16/2021,No,No,No,No,14-2021,,,,,F22-1445 Records_Part6.pdf
+115,77.0,FHA,,,ORD,4/7/2021,5/14/2021,,,Retail,,,,No,No,Unknown,,No,No,No,No,14-2021,,,,,F22-1445 Records_Part6.pdf
+116,78.0,FHA,,,M,4/7/2021,5/11/2021,,,Office,,,[1] Closed,Yes,Yes,Unknown,4/22/2021,No,No,Yes,No,14-2021,,,,,F22-1445 Records_Part6.pdf
+117,79.0,FHA,,,DELTA,4/7/2021,5/1/2021,,,g/Industry,,,,No,No,Unknown,,No,No,No,No,14-2021,,,,,F22-1445 Records_Part6.pdf
+118,80.0,FHA,,,SURREY,4/7/2021,4/28/2021,,,Processing,,,,No,No,Unknown,,No,No,No,No,14-2021,,,,,F22-1445 Records_Part6.pdf
+119,81.0,FHA,,,BURNABY,4/7/2021,4/24/2021,,,uction,,,,No,No,Unknown,,No,No,No,No,14-2021,,,,,F22-1445 Records_Part6.pdf
+120,82.0,FHA,,,BURNABY,4/7/2021,4/24/2021,,,uction,,,,No,No,Unknown,,No,No,No,No,14-2021,,,,,F22-1445 Records_Part6.pdf
+121,83.0,FHA,,,RIDGE,4/7/2021,4/23/2021,,,Gym/Fitness,,,[1] Closed,Yes,Yes,Unknown,4/9/2021,No,No,Yes,No,14-2021,,,,,F22-1445 Records_Part6.pdf
+122,70.0,FHA,,,SURREY,4/6/2021,4/16/2021,,,Processing,,,,No,No,Unknown,,No,No,No,No,14-2021,,,,,F22-1445 Records_Part6.pdf
+123,71.0,FHA,,,M,4/6/2021,4/16/2021,,,n,,,,No,No,Unknown,,No,No,No,No,14-2021,,,,,F22-1445 Records_Part6.pdf
+124,72.0,FHA,,,MOODY,4/6/2021,4/15/2021,,,Office,,,[1] Closed,Yes,Yes,Unknown,4/8/2021,No,No,Yes,No,14-2021,,,,,F22-1445 Records_Part6.pdf
+125,73.0,FHA,,,DELTA,4/6/2021,4/14/2021,,,g/Industry,,,,No,No,Unknown,,No,No,No,No,14-2021,,,,,F22-1445 Records_Part6.pdf
+126,74.0,FHA,,,STER,4/6/2021,4/14/2021,,,Personal Care,,,[1] Closed,Yes,Yes,Unknown,4/9/2021,No,No,Yes,No,14-2021,,,,,F22-1445 Records_Part6.pdf
+127,75.0,FHA,,,S,4/6/2021,4/6/2021,,,Office,,,,No,No,Unknown,,No,No,No,No,14-2021,,,,,F22-1445 Records_Part6.pdf
+128,76.0,VCH,,,Vancouver,4/6/2021,,4/6/2021,4/27/2021,Gym/Fitness,,,PH,Yes,Yes,No,4/16/2021,No,No,No,No,14-2021,,,,,F22-1445 Records_Part6.pdf
+129,77.0,FHA,,,ORD,4/7/2021,5/14/2021,,,Retail,,,,No,No,Unknown,,No,No,No,No,14-2021,,,,,F22-1445 Records_Part6.pdf
+130,78.0,FHA,,,M,4/7/2021,5/11/2021,,,Office,,,[1] Closed,Yes,Yes,Unknown,4/22/2021,No,No,Yes,No,14-2021,,,,,F22-1445 Records_Part6.pdf
+131,79.0,FHA,,,DELTA,4/7/2021,5/1/2021,,,g/Industry,,,,No,No,Unknown,,No,No,No,No,14-2021,,,,,F22-1445 Records_Part6.pdf
+132,80.0,FHA,,,SURREY,4/7/2021,4/28/2021,,,Processing,,,,No,No,Unknown,,No,No,No,No,14-2021,,,,,F22-1445 Records_Part6.pdf
+133,81.0,FHA,,,BURNABY,4/7/2021,4/24/2021,,,uction,,,,No,No,Unknown,,No,No,No,No,14-2021,,,,,F22-1445 Records_Part6.pdf
+134,82.0,FHA,,,BURNABY,4/7/2021,4/24/2021,,,uction,,,,No,No,Unknown,,No,No,No,No,14-2021,,,,,F22-1445 Records_Part6.pdf
+135,83.0,FHA,,,RIDGE,4/7/2021,4/23/2021,,,Gym/Fitness,,,[1] Closed,Yes,Yes,Unknown,4/9/2021,No,No,Yes,No,14-2021,,,,,F22-1445 Records_Part6.pdf
+136,85.0,FHA,,,ANGLEY,4/7/2021,4/20/2021,,,"Restaurant/Bar/Lounge",3.0,3,[1] Closed,Yes,Yes,Unknown,4/9/2021,No,No,Yes,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+137,86.0,FHA,,,ELTA,4/7/2021,4/20/2021,,,"Maintenance/Trades/Construction",4.0,4,,No,No,Unknown,,No,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+138,87.0,FHA,,,"ORTOQUITLA",4/7/2021,4/19/2021,,,"FoodProcessing",5.0,5,,No,No,Unknown,,No,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+139,88.0,FHA,,,ANGLEY,4/7/2021,4/18/2021,,,Other,3.0,3,,No,No,Unknown,,No,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+140,89.0,FHA,,,URNABY,4/7/2021,4/17/2021,,,Retail,3.0,3,,No,No,Unknown,,No,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+141,90.0,VCH,,,"estancouver",4/7/2021,,4/7/2021,4/27/2021,"Hospitality/Services",,7,"Partiallyclosed orwidespread isolationby PH",Yes,No,No,,Yes,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+142,91.0,VCH,,,"orthancouver",4/7/2021,,4/7/2021,4/26/2021,"Shelter/SRO/CongregateHousing",,3,"Essentialfunction(notclosed)",No,No,No,,No,No,Yes,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+143,92.0,NHA,,,nknown,4/7/2021,6/9/2021,,,"Manufacturing/Industry",,18,"Open (ifopen,reason fornon-closure)",No,No,No,,Unknown,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+144,93.0,FHA,,,"ORTOODY",4/8/2021,6/17/2021,,,Gym/Fitness,29.0,29,[1] Closed,Yes,Yes,Unknown,4/14/2021,No,No,Yes,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+145,94.0,FHA,,,URREY,4/8/2021,5/15/2021,,,Gym/Fitness,10.0,10,[1] Closed,Yes,Yes,Unknown,4/12/2021,No,No,Yes,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+146,95.0,FHA,,,URNABY,4/8/2021,5/11/2021,,,Gym/Fitness,12.0,12,[1] Closed,Yes,Yes,Unknown,5/2/2021,No,No,Yes,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+147,96.0,FHA,,,URREY,4/8/2021,4/29/2021,,,Office,12.0,12,[1] Closed,Yes,No,Unknown,4/18/2021,Yes,No,Yes,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+148,85.0,FHA,,,ANGLEY,4/7/2021,4/20/2021,,,"Restaurant/Bar/Lounge",3.0,3,[1] Closed,Yes,Yes,Unknown,4/9/2021,No,No,Yes,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+149,86.0,FHA,,,ELTA,4/7/2021,4/20/2021,,,"Maintenance/Trades/Construction",4.0,4,,No,No,Unknown,,No,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+150,87.0,FHA,,,"ORTOQUITLA",4/7/2021,4/19/2021,,,"FoodProcessing",5.0,5,,No,No,Unknown,,No,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+151,88.0,FHA,,,ANGLEY,4/7/2021,4/18/2021,,,Other,3.0,3,,No,No,Unknown,,No,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+152,89.0,FHA,,,URNABY,4/7/2021,4/17/2021,,,Retail,3.0,3,,No,No,Unknown,,No,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+153,90.0,VCH,,,"estancouver",4/7/2021,,4/7/2021,4/27/2021,"Hospitality/Services",,7,"Partiallyclosed orwidespread isolationby PH",Yes,No,No,,Yes,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+154,91.0,VCH,,,"orthancouver",4/7/2021,,4/7/2021,4/26/2021,"Shelter/SRO/CongregateHousing",,3,"Essentialfunction(notclosed)",No,No,No,,No,No,Yes,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+155,92.0,NHA,,,nknown,4/7/2021,6/9/2021,,,"Manufacturing/Industry",,18,"Open (ifopen,reason fornon-closure)",No,No,No,,Unknown,No,No,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+156,93.0,FHA,,,"ORTOODY",4/8/2021,6/17/2021,,,Gym/Fitness,29.0,29,[1] Closed,Yes,Yes,Unknown,4/14/2021,No,No,Yes,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+157,94.0,FHA,,,URREY,4/8/2021,5/15/2021,,,Gym/Fitness,10.0,10,[1] Closed,Yes,Yes,Unknown,4/12/2021,No,No,Yes,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+158,95.0,FHA,,,URNABY,4/8/2021,5/11/2021,,,Gym/Fitness,12.0,12,[1] Closed,Yes,Yes,Unknown,5/2/2021,No,No,Yes,,No,14-2021,,,,F22-1445 Records_Part6.pdf
+159,96.0,FHA,,,URREY,4/8/2021,4/29/2021,,,Office,12.0,12,[1] Closed,Yes,No,Unknown,4/18/2021,Yes,No,Yes,,No,14-2021,,,,F22-1445 Records_Part6.pdf
